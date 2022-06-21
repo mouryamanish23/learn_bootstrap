@@ -2,6 +2,6 @@
 $a=5;
 $b=10;
 $c=$a+$b;
-echo $c;
+echo "the sum is = ".$c;
 
 ?>
